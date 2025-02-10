@@ -47,8 +47,7 @@ class: title, center, middle, invert
 
 ---
 
-Classes
-
+# Classes
 Barbarian: William Wallace, Conan, Hercules
 Bard: 	Orpheus
 Cleric:	Joan of Arc, Mother Teresa
