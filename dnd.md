@@ -48,18 +48,18 @@ class: title, center, middle, invert
 ---
 
 # Classes
-Barbarian: William Wallace, Conan, Hercules
-Bard: 	Orpheus
-Cleric:	Joan of Arc, Mother Teresa
-Druid:	Radagast
-Fighter:	Achilles
-Monk:	Bruce Lee
-Paladin:	King Arthur, Lionheart
-Ranger:	Aragorn, Orion 
-Rogue:	Robin Hood
-Sorcerer:Daenerys Targaryen, Circe
-Warlock:Dr. Faustus
-Wizard:	Merlin, Medea
+**Barbarian:** William Wallace, Conan, Hercules
+**Bard:** Orpheus
+**Cleric:**	Joan of Arc, Mother Teresa
+**Druid:** Radagast
+**Fighter:** Achilles
+**Monk:** Bruce Lee
+**Paladin:** King Arthur, Lionheart
+**Ranger:** Aragorn, Orion 
+**Rogue:** Robin Hood
+**Sorcerer:** Daenerys Targaryen, Circe
+**Warlock:** Dr. Faustus
+**Wizard:** Merlin, Medea
 
 ---
 
