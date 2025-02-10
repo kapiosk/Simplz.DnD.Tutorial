@@ -95,4 +95,17 @@ class: title, center, middle, invert
 
 ---
 
+# Movies
+- Dungeons & Dragons
+- Knights of Badassdom
+- Conan the Barbarian
+---
+
+# Series
+- Grimgar of Fantasy and Ash
+- The Legend of Vox Machina
+- Goblin Slayer *
+- Dungeon Mesh
+---
+
 # Thank You & Happy Adventuring!
