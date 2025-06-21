@@ -99,6 +99,7 @@ class: title, center, middle, invert
 - Dungeons & Dragons
 - Knights of Badassdom
 - Conan the Barbarian
+- Onward
 ---
 
 # Series
@@ -106,6 +107,7 @@ class: title, center, middle, invert
 - The Legend of Vox Machina
 - Goblin Slayer *
 - Dungeon Mesh
+- Frieren: Beyond Journey's End
 ---
 
 # Thank You & Happy Adventuring!
